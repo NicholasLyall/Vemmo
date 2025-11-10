@@ -1,0 +1,3 @@
+vemmo_backend/.env.local
+vemmo_backend/__pycache__/
+vemmo_backend/venv/
